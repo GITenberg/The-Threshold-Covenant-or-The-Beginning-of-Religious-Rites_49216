@@ -1,4 +1,8 @@
 _repo: The-Threshold-Covenant-or-The-Beginning-of-Religious-Rites_49216
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49216-h/images/cover.jpg
 creator:
   author:
     agent_name: Trumbull, H. Clay (Henry Clay)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3589
     wikipedia: http://en.wikipedia.org/wiki/Henry_Clay_Trumbull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49216#The-Threshold-Covenant-or-The-Beginning-of-Religious-Rites
 gutenberg_issued: '2015-06-14'
 gutenberg_type: Text
 identifiers:
